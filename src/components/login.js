@@ -33,7 +33,7 @@ const Login=()=>{
                 </Link>
                 </Typography>
                 <Typography > Do you have an account ?
-                     <Link href="#" >
+                     <Link href="/logout" >
                         Sign Up 
                 </Link>
                 </Typography>
